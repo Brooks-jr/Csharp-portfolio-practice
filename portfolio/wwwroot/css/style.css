@@ -1,0 +1,53 @@
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    padding-top: 30px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+*
+{
+    background-color: black;
+    color: white;
+}
+
+button
+{
+    background-color: blue;
+    height: 30px;
+    width: 80px;
+}
+
+
+.foes
+{
+margin-left: 10px;
+width: 300px;
+height: 100%;
+ display: inline-block;
+}
+
+.foes img
+{
+    width: 300px;
+    height: 300px;
+}
+
+
+#contact fieldset
+{
+    background-image: url("messagegadget.jpg");
+    display: inline-block;
+}
+
+#bio
+{
+    width: 400px;
+    
+}
+
